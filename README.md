@@ -9,11 +9,15 @@ tags: ["react", "typescript", "content-management", "frontend"]
 
 I developed this responsive blog management dashboard as part of my task as assigned by Spell Innovatio. Built with **React.js**, **TypeScript**, and **Tailwind CSS**, this task streamlined content management tools that focus on user experience.
 
-## 🌐 Demo & Source
+## Project credentials
 
-[Try the live application](https://your-vercel-or-netlify-link.com)
+username: Milan,
+password: milan
 
-[Explore the repository](https://github.com/your-username/spellcms)
+## Project structure
+
+![alt text](/assets/cms-1.png)
+![alt text](/assets/cms-2.png)
 
 ## 🌐 Setup in local environment
 
