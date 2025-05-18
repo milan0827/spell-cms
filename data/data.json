@@ -1,0 +1,25 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "slug": "slugify",
+      "title": "Blog 1",
+      "description": "By giving values to a key, this technique is used to store objects in localStorage. This value can be of any datatype, including text, integer, object, array, and so on. It is vital to remember that in order to store data in localStorage, you must first stringify it with the JSON.stringify() function.",
+      "author": "Milan Rokaya",
+      "categories": "Technology",
+      "tags": ["one", "two", "three"],
+      "status": "Draft"
+    },
+    {
+      "slug": "heaven-nepal",
+      "title": "Heaven Nepal",
+      "description": "<p>Heaven is myth, Nepal is real</p>",
+      "author": "Spell Voice",
+      "coverImage": "https://images.unsplash.com/photo-1518002054494-3a6f94352e9d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "categories": "Technology",
+      "status": "Publish",
+      "tags": ["dddd", "dsfas"],
+      "id": "e72d"
+    }
+  ]
+}
